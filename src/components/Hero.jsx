@@ -6,6 +6,9 @@ import { heroIcons } from "../constants";
 import { ScrollParallax } from "react-just-parallax";
 import { useRef } from "react";
 
+
+
+
 const Hero = () => {
   const parallaxRef = useRef(null);
   return (
